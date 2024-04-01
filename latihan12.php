@@ -1,4 +1,4 @@
-<?php
+d<?php
 $a1 = ['kode' => '1111', 'buah' => 'apel', 'harga' => 20000, 'jumlah' => 4];
 $a2 = ['kode' => '2222', 'buah' => 'pisang', 'harga' => 25000, 'jumlah' => 5];
 $a3 = ['kode' => '3333', 'buah' => 'jambu', 'harga' => 30000, 'jumlah' => 6];
